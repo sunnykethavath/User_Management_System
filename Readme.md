@@ -49,9 +49,8 @@ This section houses the `APIController` class, which provides API endpoints for 
 
 ## Data Flow
 As soon as user hit any API the Controller handel it and Call the respective service, In Services section the buisness logic is applied and if the data base interaction required it hit the repository section. In repository section the data base interation take place
-## Getting Started
 
-### Datastructures used
+## Datastructures used
 
 - `ArrayList
 
